@@ -1,7 +1,8 @@
 # Comprehensive Analysis of the Customer Personality Dataset: From Normalization to Statistical Hypothesis Testing
 
 **Author:** Matvii Antipov  
-**Affiliations:** * Student, National Technical University "Kharkiv Polytechnic Institute" (NTU KhPI)
+**Affiliations:** 
+* Student, National Technical University "Kharkiv Polytechnic Institute" (NTU KhPI)
 * Guest Student, Osnabrück University of Applied Sciences
 
 ## 1. Abstract
