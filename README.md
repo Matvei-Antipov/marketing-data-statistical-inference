@@ -42,7 +42,7 @@ Results of the statistical inference:
 * **Mann-Whitney U p-value:** $1.52 \times 10^{-165}$
 
 ## 5. Conclusions and Business Strategy
-**The Null Hypothesis ($H_0$) is firmly rejected.** The statistical analysis provides conclusive mathematical proof that occasional and low-activity buyers cannot be effectively retained by appealing to organic product quality or brand loyalty. The only statistically validated and effective strategy for retaining this specific segment relies on **targeted marketing campaigns and aggressive promotional discounts**.
+**The Null Hypothesis (H0) is firmly rejected.** The statistical analysis provides conclusive mathematical proof that occasional and low-activity buyers cannot be effectively retained by appealing to organic product quality or brand loyalty. The only statistically validated and effective strategy for retaining this specific segment relies on **targeted marketing campaigns and aggressive promotional discounts**.
 
 Conversely, providing regular discounts to the "Loyal Elite" segment is highly inefficient. It merely erodes profit margins without yielding any significant increase in their purchasing activity.
 
